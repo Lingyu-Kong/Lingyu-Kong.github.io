@@ -21,7 +21,7 @@ repository               : "Lingyu-Kong/Lingyu-Kong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "man_with_thorns_crown.jpg"
   name             : "Lingyu Kong"
   pronouns         : # example: "she/her"  
   bio              : "Undergrad CS Student at Tsinghua University"
