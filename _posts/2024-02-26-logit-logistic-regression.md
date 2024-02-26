@@ -6,8 +6,6 @@ tags:
   - Loss Function
 ---
 
-# 谈谈你没搞清楚的Logit, Logistic Regression
-
 
 Logistic Regression（以下简称LR）最初是一种用于解决**二分类**问题的损失函数。其名字的Logistic取自[Logistic Distribution](https://en.wikipedia.org/wiki/Logistic_distribution)，这是数学意义上的一种分布类型；而Regression表明LR的损失函数可以将分类问题转化成回归问题来进行解决。
 
