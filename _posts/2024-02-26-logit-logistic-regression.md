@@ -9,7 +9,7 @@ tags:
 
 Logistic Regression（以下简称LR）最初是一种用于解决**二分类**问题的损失函数。其名字的Logistic取自[Logistic Distribution](https://en.wikipedia.org/wiki/Logistic_distribution)，这是数学意义上的一种分布类型；而Regression表明LR的损失函数可以将分类问题转化成回归问题来进行解决。
 
-| 你可能听说过，在Machine Learning的早期，人们会将问题大致归为分类问题和回归问题。下面我们会通过数学推导展示其实LR巧妙地将分类问题转化成了回归问题
+> 你可能听说过，在Machine Learning的早期，人们会将问题大致归为分类问题和回归问题。下面我们会通过数学推导展示其实LR巧妙地将分类问题转化成了回归问题
 
 ## Logistic Distribution
 
@@ -25,7 +25,7 @@ $$
 P(y=1|\theta, x)=\frac{1}{1+e^{-f_\theta(x)}}
 $$
 
-| 这也就是sigmoid activation 函数
+> 这也就是sigmoid activation 函数
 
 ## Logit
 
