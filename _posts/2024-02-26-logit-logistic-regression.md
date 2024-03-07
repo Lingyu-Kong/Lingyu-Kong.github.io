@@ -1,5 +1,5 @@
 ---
-title: '谈谈你没搞清楚的Logit, Logistic Regression'
+title: 'Essays - Things You don't Know about Logit, Logistic Regression'
 date: 2024-02-26
 tags:
   - Machine Learning

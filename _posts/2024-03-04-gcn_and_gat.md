@@ -1,5 +1,5 @@
 ---
-title: "Grapn Convolutional Network and Graph Attention Network"
+title: "Paper Reading - Grapn Convolutional Network and Graph Attention Network"
 date: 2024-03-03
 tags:
   - Graph Neural Network
