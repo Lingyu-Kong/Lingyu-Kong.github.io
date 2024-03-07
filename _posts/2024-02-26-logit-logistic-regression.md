@@ -1,5 +1,5 @@
 ---
-title: 'Essays - Things You don't Know about Logit, Logistic Regression'
+title: 'Articles - Things You don't Know about Logit, Logistic Regression'
 date: 2024-02-26
 tags:
   - Machine Learning
